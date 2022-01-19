@@ -15,7 +15,7 @@ Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java
 - I’m currently building projects with Java 🔵
 - I love to help people with doubts in projects ❤️
 - 2022 Goals: Work to Level up my proficiency in `Web Applications` 🔥
-- Fun fact: I am a badmintion player and eat to much fast food 🟩
+- Fun fact: I am a badmintion player & eat too much fast food 🟩
 - My favourite habit is to trying out new stuff 🌦️
 
 
