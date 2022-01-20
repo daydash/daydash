@@ -1,4 +1,4 @@
-### Hi there, I'm **Yash Bhatnagar** - [LinkedIn][website] 👋 
+### Hi there, I'm **Yash Bhatnagar** - [LinkedIn][website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 I believe that "For a person who is ready to put in extra efforts, nothing is impossible."
 
