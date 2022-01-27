@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm **Yash Bhatnagar** - [LinkedIn][website] 
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm **Yash Bhatnagar** - [LinkedIn][website] 
 
 I believe that "For a person who is ready to put in extra efforts, nothing is impossible."
 
@@ -11,10 +11,10 @@ Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java
 
 ## I'm a `prudent and motivated` Enginnering Student, Coder and Learner !!
 
-- My dream is to spend my life `solving code issues` and become a `Javascript Soldier` 🔭💛
+- It kicks me `solving code issues` 🔭💛
 - I’m currently building projects with Java 🔵
 - I love to help people with doubts in projects ❤️
-- 2022 Goals: Work to Level up my proficiency in `Web Applications` 🔥
+- 2022 Goals: Work to Level up my proficiency in `Web Applications` and become a `Javascript Soldier` 🔥
 - Fun fact: I am a badmintion player & eat too much fast food 🟩
 - I really love to try out new stuff 🌦️
 
