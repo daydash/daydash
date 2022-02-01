@@ -37,8 +37,7 @@ Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java
    
 
 <br />
-<br />
-
+<!-- <br /> -->
 ---
 
 [website]: https://www.linkedin.com/in/daydash/
@@ -51,4 +50,6 @@ Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java
 <br />
 <br />
 
-[![daydash's GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=daydash&theme=dark)](https://github.com/daydash)
+### GitHub Stats :
+
+[![daydash's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=daydash&theme=dark)](https://github.com/daydash)
