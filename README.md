@@ -37,7 +37,8 @@ Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java
    
 
 <br />
-<!-- <br /> -->
+
+
 ---
 
 [website]: https://www.linkedin.com/in/daydash/
@@ -47,7 +48,6 @@ Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java
 
 # "There is only one way to improve, PRACTICE."
 
-<br />
 <br />
 
 ### GitHub Stats :
