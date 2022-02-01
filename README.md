@@ -47,3 +47,8 @@ Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java
 [linkedin]: https://linkedin.com/in/daydash
 
 # "There is only one way to improve, PRACTICE."
+
+<br />
+<br />
+
+[![daydash's GitHub Stats Graph](https://github-readme-streak-stats.herokuapp.com/?user=daydash&theme=dark)](https://github.com/daydash)
