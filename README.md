@@ -26,7 +26,7 @@ Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java
  - 💻 *Front-End Development:* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 
 
-### 📌 Here's a link to my [Resume](https://drive.google.com/file/d/1W05hawQfawAnV5HLNT5JrZ9d-_2IKRk4/view?usp=sharing)
+### 📌 Here's a link to my [Resume](https://drive.google.com/file/d/1pULmEeyjWT9SMoSq8qnpQYOm9nLCopxo/view?usp=sharing)
 
 
 ### 📌 Contact Me :
