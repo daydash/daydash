@@ -3,7 +3,7 @@
 I believe that "For a person who is ready to put in extra efforts, nothing is impossible."
 
 
-<img src="./daydash.jpg" height="200px">
+<!-- <img src="./daydash.jpg" height="200px"> -->
 
 Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java)  ✅ 
 
