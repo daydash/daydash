@@ -1,9 +1,9 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm **Yash Bhatnagar** - [LinkedIn][website] 
 
-I believe that "For a person who is ready to put in extra efforts, nothing is impossible."
+__कर्मण्येवाधिकारस्ते मा फलेषु कदाचन्। ✨__
 
 
-<!-- <img src="./daydash.jpg" height="200px"> -->
+<img src="./yash.jpg" height="200px">
 
 Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java)  ✅ 
 
