@@ -1,9 +1,9 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm **Yash Bhatnagar** - [LinkedIn][website] 
 
-_कर्मण्येवाधिकारस्ते मा फलेषु कदाचन्। ✨_
+**_कर्मण्येवाधिकारस्ते मा फलेषु कदाचन्। ✨_**
 
 
-<img src="./yash.jpg" height="250px">
+<img src="./yash.jpg" height="253px" width="253px">
 
 Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java)  ✅ 
 
