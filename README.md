@@ -5,15 +5,16 @@
 
 <img src="./yash.jpg" height="253px" width="253px">
 
-Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java)  ✅ 
+Checkout my ongoing Repo [learning-cpp](https://github.com/daydash/learning-cpp)  ✅ 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/maiyashhoon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=maiyashhoon)
 
 ## I'm a `prudent and motivated` Enginnering Student, Coder and Learner !!
 
 - It kicks me `solving code issues` 🔭💛
-- I’m currently building projects with Java 🔵
-- I love to help people with doubts in projects ❤️
+- I’m currently completing my DSA with C++ 🔵
+- I’m simultaneously try building projects with C++ ❤️
+<!-- - I love to help people with doubts in projects ❤️ -->
 - 2022 Goals: Work to Level up my proficiency in `Web Applications` and become a `Javascript Soldier` 🔥
 - Fun fact: I am a badmintion player & eat too much fast food 🟩
 - I really love to try out new stuff 🌦️
@@ -21,7 +22,7 @@ Checkout my ongoing Repo [learning-java](https://github.com/daydash/leaning-java
 
 ### 📌 My technical skills include :
 
- - 💻 *Languages:*  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/java.png"/> <img align="center" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/144/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"/>
+ - 💻 *Languages:* <img align="center" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/144/000000/external-cplusplus-a-general-purpose-descriptive-programming-computer-language-logo-shadow-tal-revivo.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/java.png"/>
 
  - 💻 *Front-End Development:* <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 
