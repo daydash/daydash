@@ -1,4 +1,4 @@
-### Hi there 👋 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->I'm **Yash Bhatnagar** - [LinkedIn][website] 
+### Hi there 👋 <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->I'm `**Yash Bhatnagar**` - [LinkedIn][website] 
 
 **_कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। ✨_**
 
@@ -7,7 +7,7 @@
 
 Checkout my ongoing Repo [learning-cpp](https://github.com/daydash/learning-cpp)  ✅ 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/maiyashhoon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=maiyashhoon)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/maiyashhoon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=maiyashhoon) -->
 
 ## I'm a `prudent and motivated` Enginnering Student, Coder and Learner !!
 
