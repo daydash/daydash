@@ -23,7 +23,7 @@ Checkout my ongoing Repo [learning-cpp](https://github.com/daydash/learning-cpp)
 
 - 💻 _Front-End Development:_ <img align="center" height="30" src="https://img.icons8.com/color/144/000000/html-5.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/css3.png"/> <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/> <img align="center" height="30" src="https://camo.githubusercontent.com/5270d1727c928291af4be690b0a2df9fdc699009e55f2f86bdb45916c5cf93bd/68747470733a2f2f696d672e69636f6e73382e636f6d2f756c74726176696f6c65742f3438302f3030303030302f72656163742e706e67"/>
 
-- 💻 _Back-End Development:_  <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+- 💻 _Back-End Development:_ <img align="center" height="30" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 
 ### 📌 Here's a link to my [Resume](https://drive.google.com/file/d/1pULmEeyjWT9SMoSq8qnpQYOm9nLCopxo/view?usp=sharing)
 
@@ -48,4 +48,6 @@ Checkout my ongoing Repo [learning-cpp](https://github.com/daydash/learning-cpp)
 
 ### GitHub Stats :
 
-[![daydash's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=daydash&theme=dark)](https://github.com/daydash)
+<!-- [![daydash's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=daydash&theme=dark)](https://github.com/daydash) -->
+
+[![daydash's GitHub Stats](https://streak-stats.demolab.com/?user=daydash&theme=dark)](https://github.com/daydash)
